@@ -1,0 +1,240 @@
+/* responsive css */
+
+
+/* mobile responsive */
+
+@media only screen and (max-width: 768px){
+
+    .navbar-light .navbar-toggler{
+        margin-left:160px;
+        border-color: aliceblue;
+       
+    }
+    .nav-item .fa-brands{
+        display: none;
+    }
+
+    .navbar-nav{
+        padding: 20px 0px 0px 0px;
+        margin-left: -130px;
+    }
+
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 22px;
+    }
+
+    .best-marketing-header{
+        background-image: none;
+    }
+    
+    .main-contant-header h5{
+        font-size: 22px !important;
+        color:aliceblue;
+        padding: 40px 0px 0px 0px
+    }
+    .main-contant-header h1{
+        font-size: 30px;
+        line-height: 50px;
+        
+    }
+    .best-marketing-header{
+        min-height: 280px;
+    }
+
+    .marketing-covars-contant{
+        display:block;
+    }
+
+    .covar-about{
+        display: block;
+    }
+
+    .covar-about-img img{
+        margin-left:0px;
+        width: 100%;
+    }
+    .covar-portfolio {
+        display: block;
+    }
+    .covar-missoin{
+        display: block;
+        padding:30px;
+    }
+    .facts-consept{
+        display: block;
+    }
+
+    .talk-consept {
+        display: block;
+    }
+    .talk-button{
+        margin-left:60px;
+    }
+
+    .futtor-controlar{
+        display: block;
+    }
+    .main-contant-header .btn {
+        margin-left: 115px;
+    }
+
+    .marketing-covars-contant .marketing-covar-text h6{
+        font-size: 22px;
+    }
+
+    .marketing-covars-contant .marketing-covar-text h3{
+        font-size: 30px;
+        line-height: 38px
+    }
+
+    .covars-logo{
+        text-align: center;
+    }
+    .covar-about-text h2{
+        text-align: center;
+    }
+    .covar-about-text p{
+        font-size: 20px;
+        line-height: 40px;
+        text-align: center;
+    }
+    
+    .covar-missoin-text h3{
+        font-size: 32px;
+        text-align: center;
+        padding:15px 0px 0px 0px;
+    }
+
+    .covar-missoin-image img{
+       margin-left:80px;
+    }
+
+    .covar-missoin-text p{
+        font-size: 22px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .our-servise-contant h2{
+        font-size: 35px;
+    }
+
+    .our-servise-contant p{
+        line-height: 35px;
+    }
+
+    .facts-about-text h6{
+        text-align: center;
+    }
+
+    .facts-about-text h3{
+        font-size: 37px;
+        text-align: center;
+    }
+    .facts-about-img{
+        text-align: center;
+    }
+
+    .happy-customer-content h2{
+        font-size: 26px;
+        padding:10px 0px;
+    }
+    .happy-customer-content p{
+        font-size: 20px;
+    }
+    .talk-text h2{
+        text-align: center;
+    }
+    .talk-text p{
+        text-align: center;
+        font-size: 19px;
+    }
+    .talk-button{
+        margin-top:0px;
+    }
+
+    .futtor h6{
+        text-align: center;
+        font-size: 16px;
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+
+    .get-touch{
+        text-align: center;
+        padding:20px 10px;
+    }
+    .futtor-servise h3{
+        color:aliceblue;
+        font-size: 30px;
+    }
+    .futtor-servise{
+        text-align: center;
+    }
+    .happy-customer-box{
+        width: 100%;
+        margin-left: 10px;
+       
+    }
+    .single-servise{
+        padding:80px 0px 30px 0px;
+    }
+
+    .happy-customer-img img{
+        width: 50px !important;
+    }
+    .happy-customer-single-text h5{
+        font-size: 12px;
+    }
+
+    .happy-customer-single-text h6{
+        font-size: 13px;
+    }
+
+    .happy-customer-icon{
+        margin-left: 62px;
+    }
+        
+    .my-clients-logo img{
+        width: 280px;
+    }
+
+    .owl-carousel .owl-item img{
+        width:250pxs;
+      }
+
+      .single-servise-box{
+          width: 100%;
+      }
+
+
+      .covar-portfolio{
+        padding:0px 0px 50px 0px;
+    }
+    
+    .portfolio-image{
+        padding:0px 0px 40px 0px;
+    }
+    .portfolio-text p{
+        padding:10px 0px;
+        text-align: center;
+        margin-left:0px;
+        font-size: 25px;
+    } 
+
+    .futtor-icon{
+        margin-left:0px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
